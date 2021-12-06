@@ -79,7 +79,7 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  /*border-bottom: 1px solid $color-border;*/
   color: $color-primary;
   &:hover {
     color: black !important;
@@ -105,7 +105,7 @@ a {
 }
 
 nav {
-  margin: 1em 0 3em;
+  margin: 1em 0 1em;
 }
 
 #notes-entry-container {
